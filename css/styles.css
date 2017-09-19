@@ -1,0 +1,33 @@
+body {
+  background-color:  #331100;
+  color: white
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 60px;
+  text-align: center;
+  color: #ffccff;
+}
+
+p.intro {
+  font-size: 15px;
+  font-style: italic;
+  margin-left: 200px;
+}
+.text {
+  font-size:20px;
+  margin-left: 200px;
+
+}
+
+.navi {
+  position: absolute;
+  width: 150px;
+  border: 2px solid white;
+  color: white;
+}
+.navi a {
+  color: white;
+  font-size: 30px;
+}
